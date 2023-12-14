@@ -2,9 +2,9 @@ import React from 'react'
 
 const Portfolio = () => {
   return (
-    <h1>
+    <section id='portfolio'>
       Portfolio
-    </h1>
+    </section>
   )
 }
 

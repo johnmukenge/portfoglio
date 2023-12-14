@@ -2,9 +2,9 @@ import React from 'react'
 
 const Testimonials = () => {
   return (
-    <h1>
+    <section id='testimonials'>
       Testimonnials
-    </h1>
+    </section>
   )
 }
 
